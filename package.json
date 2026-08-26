@@ -1,0 +1,27 @@
+{
+  "name": "node-trining",
+  "version": "1.0.0",
+  "description": "node express js ",
+  "keywords": [
+    "js"
+  ],
+  "homepage": "https://github.com/ahmadalshaqlde2003-cpu/testnodeee#readme",
+  "bugs": {
+    "url": "https://github.com/ahmadalshaqlde2003-cpu/testnodeee/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahmadalshaqlde2003-cpu/testnodeee.git"
+  },
+  "license": "ISC",
+  "author": "ahmad",
+  "type": "commonjs",
+  "main": "App.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node APP.js"
+  },
+  "dependencies": {
+    "express-validator": "^7.3.2"
+  }
+}
